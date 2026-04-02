@@ -13,7 +13,7 @@ Implementei uma hierarquia de OUs personalizada para fugir dos containers padrã
 * **COMPUTADORES**: Destinado ao gerenciamento de ativos de hardware e Hardening de estações de trabalho.
 
 > **Evidência:** ![Estrutura de OUs](img/Arvore1.png)
-> **Evidência:** ![Estrutura de OUs](imag/Arvore.png)
+> **Evidência:** ![Estrutura de OUs](img/Arvore.png)
 
 ### 2. Gestão de Grupos e Segurança (Metodologia AGDLP)
 Adotei a estratégia de **Grupos de Segurança Globais** para organizar usuários por função, preparando o ambiente para o padrão AGDLP.
