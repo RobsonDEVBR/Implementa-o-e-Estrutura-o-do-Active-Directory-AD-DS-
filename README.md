@@ -56,7 +56,7 @@ Para garantir a confidencialidade e integridade dos dados da empresa, implemente
 * **Aplicação do AGDLP na Prática:** O acesso não é dado ao usuário, mas sim ao grupo de segurança. A pasta `TI_Confidencial` foi restrita para aceitar modificações apenas do grupo global `G_TI_AcessoFull`.
 
 > **Evidência:** ![Criando C:\Arquivo_Matriz\TI_Confidencial](img/NTFS1.png)
-> **Evidência:** ![Adicionando Grupo G_TI_AcessoFull]((img/NTFS2.png))
+> **Evidência:** ![Adicionando Grupo G_TI_AcessoFull](img/NTFS2.png)
 > **Evidência:** ![Adicionando Permissão Modify permitindo trabalhar dentro da pasta mas sem controle total"Full Control"Para que o Usuário não controle as senhas e segurança](img/NTFS3.png)
 > **Evidência:** ![Grupo Adicionado Usuários Removidos e Herança desabilitada  ](img/NTFS4.png)
 > **Evidência:** ![Acesso Mapeado Windows 10 na rede](img/NTFS5.png)
