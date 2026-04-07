@@ -7,7 +7,7 @@
 
 | Componente | Detalhe |
 |---|---|
-| Hiper-V | 
+| Hipervisor | Hyper-V (Windows 10 — host) |
 | Servidor | Windows Server 2025 (Domain Controller) |
 | Cliente | Windows 10 (estação ingressada no domínio) |
 | Serviços | AD DS, DNS, GPO, File Server (NTFS) |
