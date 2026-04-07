@@ -1,5 +1,16 @@
-Este repositório documenta a implementação de um ambiente de rede corporativa utilizando **Windows Server 2025**, focado na gestão centralizada de identidades e segurança.
+## 🛠️ Tecnologias e Ambiente
 
+![Windows Server](https://img.shields.io/badge/Windows_Server_2025-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+| Componente | Detalhe |
+|---|---|
+| Hiper-V | 
+| Servidor | Windows Server 2025 (Domain Controller) |
+| Cliente | Windows 10 (estação ingressada no domínio) |
+| Serviços | AD DS, DNS, GPO, File Server (NTFS) |
+| Automação | PowerShell |
 ##  Objetivo do Projeto
 Estabelecer uma fundação sólida de diretório (Active Directory) que permita escalabilidade, automação de políticas e controle rígido de acessos (RBAC - Role-Based Access Control).
 
